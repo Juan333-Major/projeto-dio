@@ -1,6 +1,6 @@
 const nome = "Juan"
 let nivel = ""
-let xp = 1000
+let xp = 7000
 
 if(xp <= 1000){
     nivel = "Ferro"
